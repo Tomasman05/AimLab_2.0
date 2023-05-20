@@ -1,0 +1,30 @@
+body{
+    background-color: black !important;
+}
+img{
+    width: 150px;
+    height: 100px;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1280px;
+    max-height: 720px;
+    width: 1280px;
+    height: 720px;
+    background: url(./fa56b4aae930cd687947295f1813688b.jpg);
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    max-width: fit-content;
+    background-color: crimson;
+    display: flex;
+}
+input{
+    color: black;
+}
+#pointBox{
+    width: 250px;
+    height: 25px !important;
+    float: right;
+}
